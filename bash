@@ -1,5 +1,4 @@
 #!/bin/bash
-chmod +x ./bach
 while :
 echo "The system name:"
 hostname
